@@ -2,7 +2,7 @@
 //  Character.hpp
 //  PA1-CS330
 //
-//  Created by Brandon Perry on 2/5/22.
+//  Created by  on 2/5/22.
 //
 
 #ifndef Character_hpp
