@@ -2,7 +2,7 @@
 //  mathFunctions.hpp
 //  PA1-CS330
 //  mathFunctions are used for vector operations
-//  Created by Brandon Perry on 2/18/22.
+//  Created by on 2/18/22.
 //
 
 #ifndef mathFunctions_hpp
