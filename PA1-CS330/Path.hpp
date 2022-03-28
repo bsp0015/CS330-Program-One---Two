@@ -1,8 +1,8 @@
 //
 //  Path.hpp
 //  PA1-CS330
-//  Path is sued to create, alter, and access a path
-//  Created by Brandon Perry on 2/18/22.
+//  Path is used to create, alter, and access a path
+//  Created by on 2/18/22.
 //
 
 #ifndef Path_hpp
