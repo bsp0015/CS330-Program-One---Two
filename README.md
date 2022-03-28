@@ -2,6 +2,8 @@
 This is a program that demonstrates movement behaviors and path following for my AI and Game Development Course.
 The code in main.cpp is for both a Dynamic movement behavior assignment as well as a path following assignment. PA1 code is commented out at the bottom of the code; however. 
 
+Note: After this assignment I learend about vectors which could have simplified the amount of functions and variables needed
+
 Date completed - 2/24/22 & 2/01/22
 
 ## Assignment #1
