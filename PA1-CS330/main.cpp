@@ -1,8 +1,8 @@
 //
 //  main.cpp
 //  PA1/PA2-CS330
-//  This is the PA2 assignments for CS 330 - Path Following
-//  Created by Brandon Perry on 2/5/22.
+//  This is the PA2 assignments for CS 330 - Path Following / code can be rearranged using commented out code at the end for PA1 - movement behaviors
+//  Created by on 2/5/22.
 //
 
 #include <iostream>
@@ -63,7 +63,7 @@ int main(int argc, const char * argv[]) {
     string outFileName; //output file external name
    
     //open output file
-    outFileName = "/Users/brandonperryBrandon/Downloads/PA2-Output.txt";    // replace with your path
+    outFileName = "PA2-Output.txt";    // replace with your path -----
     outFile.open(outFileName.c_str());
     
     // initialize and create path
@@ -478,12 +478,13 @@ Path assemble (Path &path, float xCoord[], float zCoord[])
 // Below are the things needed to run for PA1
 
 
+// inside main //
+
 /* Comment out Program One
  void initPA1(Character &char1, Character &char2, Character &char3, Character &char4);
 
 // fill in characters initial values
 initPA1 (char1, char2, char3, char4);
-
 
 // print out initial character data to output file
 printData (outFile, simTime, char1);
