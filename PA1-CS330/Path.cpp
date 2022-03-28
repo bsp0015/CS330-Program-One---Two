@@ -2,7 +2,7 @@
 //  Path.cpp
 //  PA1-CS330
 //
-//  Created by Brandon Perry on 2/18/22.
+//  Created by on 2/18/22.
 //
 
 #include "Path.hpp"
